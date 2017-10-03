@@ -1,0 +1,9 @@
+E3.5_ICM_R1	ftp://ftp.ebi.ac.uk/pub/databases/microarray/data/experiment/MTAB/E-MTAB-2958/E-MTAB-2958.E3.5_ICM_R1.bam
+E3.5_ICM_R2	ftp://ftp.ebi.ac.uk/pub/databases/microarray/data/experiment/MTAB/E-MTAB-2958/E-MTAB-2958.E3.5_ICM_R2.bam
+E3.5_ICM_R3	ftp://ftp.ebi.ac.uk/pub/databases/microarray/data/experiment/MTAB/E-MTAB-2958/E-MTAB-2958.E3.5_ICM_R3.bam
+E4.5_EPI_R1	ftp://ftp.ebi.ac.uk/pub/databases/microarray/data/experiment/MTAB/E-MTAB-2958/E-MTAB-2958.E4.5_EPI_R1.bam
+E4.5_EPI_R2	ftp://ftp.ebi.ac.uk/pub/databases/microarray/data/experiment/MTAB/E-MTAB-2958/E-MTAB-2958.E4.5_EPI_R2.bam
+E4.5_EPI_R3	ftp://ftp.ebi.ac.uk/pub/databases/microarray/data/experiment/MTAB/E-MTAB-2958/E-MTAB-2958.E4.5_EPI_R3.bam
+E5.5_EPI_R1	ftp://ftp.ebi.ac.uk/pub/databases/microarray/data/experiment/MTAB/E-MTAB-2958/E-MTAB-2958.E5.5_EPI_R1.bam
+E5.5_EPI_R2	ftp://ftp.ebi.ac.uk/pub/databases/microarray/data/experiment/MTAB/E-MTAB-2958/E-MTAB-2958.E5.5_EPI_R2.bam
+E5.5_EPI_R3	ftp://ftp.ebi.ac.uk/pub/databases/microarray/data/experiment/MTAB/E-MTAB-2958/E-MTAB-2958.E5.5_EPI_R3.bam
