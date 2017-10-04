@@ -110,19 +110,6 @@ arrange(age_dataframe, -age)
 # 4) Looking at the code for the results section above, can you generate a data frame of
 # gene expression changes for E5.5 vs E4.5?
 
-#############################################
-# Compare E5.5 vs E4.5 gene expression changes
-E5.5_vs_E4.5 <- results(dds, contrast = c("stage", "E5.5", "E4.5"), alpha = 0.05)
-
-# Convert output to a data frame for further manipulation
-E5.5_vs_E4.5_dataframe <- data.frame(E5.5_vs_E4.5, geneid = rownames(E5.5_vs_E4.5))
-
-# Remove genes that did not get an adjusted p value
-E5.5_vs_E4.5_dataframe <- filter(E5.5_vs_E4.5_dataframe, padj != 'NA')
-
-# Add gene symbol to results data frame
-E5.5_vs_E4.5_dataframe <- dplyr::inner_join(E5.5_vs_E4.5_dataframe, geneid_symbol, by = 'geneid')
-####################################################
 
 # We can generate a number of plots using ggplot
 # ggplot takes a dataframe, a set of x values, a set of y values, and a plot type
